@@ -29,12 +29,6 @@
 
 <h2 align="center">Profile statistics</h2>
 
-<p align="center" dir="auto">
-    <a href="https://github.com/7kdz">
-    <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api/?username=7kdz&show_icons=true&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide_title=true&count_private=true" style="max-width: 90%;"></a>
-<a href="https://github.com/7kdz"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7kdz&random=1&layout=compact&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide=visual%20basic&count_private=true" style="max-width: 90%;"></a>
-</p>
-
 
 <h2 align="center">Spotify playlists</h2>
 
