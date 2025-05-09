@@ -13,6 +13,7 @@
 </p>
 
 ---
+
 <!-- Presentación -->
 <h1 align="center">Hey there!</h1>
 <p align="center">
@@ -20,6 +21,7 @@
 </p>
 
 ---
+
 <!-- Intereses -->
 <h2 align="center">Interests</h2>
 <p align="center">
@@ -35,6 +37,7 @@
 </p>
 
 ---
+
 <!-- Contacto -->
 <h2 align="center">Contact me</h2>
 <p align="center">
@@ -47,6 +50,7 @@
 </p>
 
 ---
+
 <!-- Estadísticas de GitHub -->
 <h2 align="center">Profile statistics</h2>
 <p align="center" dir="auto">
@@ -59,6 +63,7 @@
 </p>
 
 ---
+
 <!-- Playlists de Spotify -->
 <h2 align="center">Spotify playlists</h2>
 <p align="center">
@@ -69,4 +74,3 @@
     <img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Ranky%C2%BF-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/>
   </a>
 </p>
----
