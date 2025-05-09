@@ -31,8 +31,7 @@
 
 <p align="center" dir="auto">
     <a href="https://github.com/7kdz">
-    <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api/?username=7kdz&show_icons=true&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide_title=true&count_private=true" style="max-width: 100%;">
-  </a>
+    <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api/?username=7kdz&show_icons=true&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide_title=true&count_private=true" style="max-width: 100%;"></a>
 <a href="https://github.com/7kdz"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7kdz&random=1&layout=compact&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide=visual%20basic&count_private=true" style="max-width: 100%;"></a>
 </p>
 
@@ -40,5 +39,6 @@
 <h2 align="center">Spotify playlists</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a><a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Ranky%C2%BF-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
+  <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
+  <a href="https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF?si=f099cd03d48a4806"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Ranky%C2%BF-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
 </p>
