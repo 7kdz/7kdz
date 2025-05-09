@@ -30,8 +30,10 @@
 <h2 align="center">Profile statistics</h2>
 
 <p align="center" dir="auto">
-  <a href="https://github.com/7kdz"><img width="450" height="170" align="center" src="https://camo.githubusercontent.com/c3976e1176595bc3c3f1e8e5305e7cb061b1c1f47b635b6e5218c1303cfefe2d/68747470733a2f2f6769746875622d726561646d652d73746174732e766c61646672616e67752e76657263656c2e6170702f6170692f3f757365726e616d653d536e6f72747a7a2673686f775f69636f6e733d74727565267469746c655f636f6c6f723d30303641464626746578745f636f6c6f723d3431374538372662675f636f6c6f723d464646464646303026686964655f626f726465723d747275652669636f6e5f636f6c6f723d30353739433326686964655f7469746c653d7472756526636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vladfrangu.vercel.app/api/?username=7kdz&random=1&amp;show_icons=true&amp;title_color=006AFF&amp;text_color=417E87&amp;bg_color=FFFFFF00&amp;hide_border=true&amp;icon_color=0579C3&amp;hide_title=true&amp;count_private=true" style="max-width: 100%;"></a>
-  <a href="https://github.com/7kdz"><img height="150" align="center" src="https://camo.githubusercontent.com/fc27f22e853014249ef190ecfa0aaa8b17f99a0ddae27c8eb1b43a1a3fa20179/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d536e6f72747a7a266c61796f75743d636f6d70616374267469746c655f636f6c6f723d30303641464626746578745f636f6c6f723d3431374538372662675f636f6c6f723d464646464646303026686964655f626f726465723d747275652669636f6e5f636f6c6f723d30353739433326686964653d76697375616c253230626173696326636f756e745f707269766174653d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=7kdz&random=1&amp;layout=compact&amp;title_color=006AFF&amp;text_color=417E87&amp;bg_color=FFFFFF00&amp;hide_border=true&amp;icon_color=0579C3&amp;hide=visual%20basic&amp;count_private=true" style="max-width: 100%;"></a>
+    <a href="https://github.com/7kdz">
+    <img width="450" height="170" align="center" src="https://github-readme-stats.vercel.app/api/?username=7kdz&show_icons=true&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide_title=true&count_private=true" style="max-width: 100%;">
+  </a>
+<a href="https://github.com/7kdz"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7kdz&random=1&layout=compact&title_color=006AFF&text_color=417E87&bg_color=FFFFFF00&hide_border=true&icon_color=0579C3&hide=visual%20basic&count_private=true" style="max-width: 100%;"></a>
 </p>
 
 
