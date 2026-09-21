@@ -37,4 +37,6 @@
 <p align="center">
   <a href="https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1?si=44c6b4aa6d4043cc"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/YHLQMDLG-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
   <a href="https://open.spotify.com/playlist/5bcfFBymRd1jsCt6fp1OEH"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Ranky%C2%BF-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
+  <a href="https://open.spotify.com/playlist/15zfJhbepAB9cJpQtkZQKw"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/Puro%20Porte-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
+    <a href="https://open.spotify.com/playlist/3S9qHTCWhoXCI07KQrNiot"><img alt="Spotify" title="Spotify" src="https://img.shields.io/badge/47-1DB954?style=for-the-badge&logo=spotify&logoColor=black"/></a>
 </p>
