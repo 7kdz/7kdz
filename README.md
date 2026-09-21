@@ -34,14 +34,16 @@
     <img
       width="450"
       height="170"
-      src="https://github-readme-stats.vercel.app/api?username=7kdz&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=006AFF&text_color=417E87&icon_color=0579C3"
+      src="./profile/stats.svg"
+      alt="7kdz GitHub Stats"
     />
   </a>
 
   <a href="https://github.com/7kdz">
     <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=7kdz&layout=compact&hide_border=true&bg_color=00000000&title_color=006AFF&text_color=417E87&hide=visual%20basic"
+      height="170"
+      src="./profile/top-langs.svg"
+      alt="7kdz Top Languages"
     />
   </a>
 </p>
